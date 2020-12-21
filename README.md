@@ -20,7 +20,7 @@
 * `nsclient_modules_nrpeserver`: [default: 1]:
 * `nsclient_external_scripts_allow_arguments`
 * `nsclient_external_scripts_allow_nasty_chars`
-* `nsclient_external_scripts: []
+* `nsclient_external_scripts`: []
 
 ## Dependencies
 

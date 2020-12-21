@@ -5,7 +5,7 @@
 #### Variables
 
 * `nsclient_settings_password`: [default: CHANGE_ON_INSTALL]: Password used to authenticate against server
-* `nsclient_settings_allowed_hosts: [default: 127.0.0.1,::1]: A comaseparated list of allowed hosts. You can use netmasks (/ syntax) or * to create ranges..
+* `nsclient_settings_allowed_hosts`: [default: 127.0.0.1,::1]: A comaseparated list of allowed hosts. You can use netmasks (/ syntax) or * to create ranges..
 * `nsclient_nrpe_ssloptions`: [default: None]: Comma separated list of verification flags to set on the SSL socket.
 * `nsclient_nrpe_verify_mode`: [default: None]: Comma separated list of verification flags to set on the SSL socket.
 * `nsclient_nrpe_insecure`: [default: false]: ALLOW INSECURE CHIPHERS and ENCRYPTION
